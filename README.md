@@ -1,6 +1,6 @@
 # jenkins-dev (Project Title)
 
-Just learning about Jenkins and GitHUB. This repository is used for training purposes and getting comfortable with these devops products/
+Just learning about Jenkins and GitHUB. This repository is used for training purposes and getting comfortable with these devops products.
 
 ## Getting Started
 
